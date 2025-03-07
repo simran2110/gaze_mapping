@@ -1,0 +1,5 @@
+.DS_Store
+aruco_markers/
+markers_data/
+markers_data2/
+output_video.mp4
