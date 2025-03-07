@@ -44,4 +44,4 @@ Steps followed to map the gaze data:
 
 3) Final output:
     The final output generated accurately mapped (x, y) gaze coordinates for each timestamp, aligning gaze points with reference snapshots to enable analysis of visual attention patterns over time. 
-    
+
